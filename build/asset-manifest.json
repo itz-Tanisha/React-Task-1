@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/itz-Tanisha/Try/static/css/main.3913a699.css",
+    "main.js": "/itz-Tanisha/Try/static/js/main.a32adf38.js",
+    "index.html": "/itz-Tanisha/Try/index.html",
+    "main.3913a699.css.map": "/itz-Tanisha/Try/static/css/main.3913a699.css.map",
+    "main.a32adf38.js.map": "/itz-Tanisha/Try/static/js/main.a32adf38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3913a699.css",
+    "static/js/main.a32adf38.js"
+  ]
+}
